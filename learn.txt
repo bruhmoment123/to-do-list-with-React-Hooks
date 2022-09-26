@@ -1,5 +1,0 @@
- functional components
- state 
- class component
- lifecycle
- inline 
